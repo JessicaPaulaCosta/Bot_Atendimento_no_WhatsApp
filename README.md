@@ -3,7 +3,7 @@
 Desenvolvimento de bot WhatsApp de tele atendimento para uma igreja, com sua própria API para automatização de tarefas, que também podem ser adaptada para outros atendimento virtuais como: delivery, marketing digital tudo de forma autônoma.
 
 linguem de programação:
-Pyhton: Responsável por emular o whatsapp, captura de mensagem do usuário e responder para o cliente.
+Python: Responsável por emular o whatsapp, captura de mensagem do usuário e responder para o cliente.
 
 PHP: Responsável pelo processamento (inteligência dos serviços com um menu dinâmico).
 
