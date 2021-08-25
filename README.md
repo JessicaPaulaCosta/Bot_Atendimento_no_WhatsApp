@@ -25,5 +25,10 @@ WebDriver: é um arquivo que vai permite que a linguagem python consiga integrar
 
 
 link: https://chromedriver.chromium.org/downloads
+
+
 Para visualizar a versão do navegador:
 controle > ajuda > sobre o google chrome
+
+
+Vídeo do funcionamento e como utiliza-lo do bot no whatsApp web:  https://youtu.be/vre1YWVE_l0
